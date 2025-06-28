@@ -96,67 +96,67 @@
     <name>SettingsPage</name>
     <message>
         <source>#wantToResetGamePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchtest du den gesamten Verlauf rückgängig machen und wieder beim ersten Level starten?&lt;br&gt;Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Game settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiel Einstellungen</translation>
     </message>
     <message>
         <source>Screen orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmorientierung</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochformat</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Querformat</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Erscheinungsbild</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <source>Undo button</source>
-        <translation type="unfinished"></translation>
+        <translation>Rückgängig machen Button</translation>
     </message>
     <message>
         <source>#oneMove</source>
-        <translation type="unfinished"></translation>
+        <translation>einen Zug</translation>
     </message>
     <message>
         <source>#untilSolve</source>
-        <translation type="unfinished"></translation>
+        <translation>so viele Züge, bis eine Lösung wieder möglich ist</translation>
     </message>
     <message>
         <source>Others</source>
-        <translation type="unfinished"></translation>
+        <translation>Weiteres</translation>
     </message>
     <message>
         <source>Reset gameplay...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spieleinstellungen zurücksetzen...</translation>
     </message>
     <message>
         <source>About...</source>
-        <translation type="unfinished"></translation>
+        <translation>Über...</translation>
     </message>
 </context>
 </TS>
