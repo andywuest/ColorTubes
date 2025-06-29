@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>#aboutText4</source>
-        <translation type="unfinished">Sailfish OS Adaption: Andreas Wüst</translation>
+        <translation>Адаптация Sailfish OS: Andreas Wüst</translation>
     </message>
     <message>
         <source>#version</source>
@@ -96,67 +96,67 @@
     <name>SettingsPage</name>
     <message>
         <source>#wantToResetGamePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите сбросить весь прогресс и начать заного с первого уровня?&lt;br&gt;Эта операция не может быть отменена.</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>Game settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки игры</translation>
     </message>
     <message>
         <source>Screen orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ориентация экрана</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Как в системе</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Портретная</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Альбомная</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый</translation>
     </message>
     <message>
         <source>Undo button</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка отмены отменяет...</translation>
     </message>
     <message>
         <source>#oneMove</source>
-        <translation type="unfinished"></translation>
+        <translation>один ход</translation>
     </message>
     <message>
         <source>#untilSolve</source>
-        <translation type="unfinished"></translation>
+        <translation>некоторые ходы до того, как решение существует</translation>
     </message>
     <message>
         <source>Others</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <source>Reset gameplay...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить...</translation>
     </message>
     <message>
         <source>About...</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе...</translation>
     </message>
 </context>
 </TS>
