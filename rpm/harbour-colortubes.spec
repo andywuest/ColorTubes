@@ -1,4 +1,4 @@
-Name:       com.me.legoru.ColorTubes
+Name:       harbour-colortubes
 
 Summary:    ColorTubes
 Version:    0.9
@@ -28,7 +28,7 @@ Color sort game for Aurora OS
 %make_build
 
 %install
-%make_install
+%qmake5_install
 
 %files
 %defattr(-,root,root,-)

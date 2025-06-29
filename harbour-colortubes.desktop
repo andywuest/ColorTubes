@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=com.me.legoru.ColorTubes
-Exec=/usr/bin/com.me.legoru.ColorTubes
+Icon=harbour-colortubes
+Exec=harbour-colortubes
 Name=Color Tubes
 Name[en]=Color Tubes
 Name[ru]=Цветные пробирки
