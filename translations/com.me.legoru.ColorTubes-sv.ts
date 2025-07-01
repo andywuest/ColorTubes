@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>#version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
 </context>
 <context>
@@ -96,67 +96,67 @@
     <name>SettingsPage</name>
     <message>
         <source>#wantToResetGamePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du återställa alla tidigare spel och starta om från första nivån?&lt;br&gt;Denna åtgärd kan inte ångras.</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Game settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Spelinställningar</translation>
     </message>
     <message>
         <source>Screen orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmorientering</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Stående</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Liggande</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Mörk</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljus</translation>
     </message>
     <message>
         <source>Undo button</source>
-        <translation type="unfinished"></translation>
+        <translation>Ångerknappen ångrar...</translation>
     </message>
     <message>
         <source>#oneMove</source>
-        <translation type="unfinished"></translation>
+        <translation>ett drag</translation>
     </message>
     <message>
         <source>#untilSolve</source>
-        <translation type="unfinished"></translation>
+        <translation>några drag tills en lösning är möjlig</translation>
     </message>
     <message>
         <source>Others</source>
-        <translation type="unfinished"></translation>
+        <translation>Annat</translation>
     </message>
     <message>
         <source>Reset gameplay...</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ spelet...</translation>
     </message>
     <message>
         <source>About...</source>
-        <translation type="unfinished"></translation>
+        <translation>Om...</translation>
     </message>
 </context>
 </TS>
