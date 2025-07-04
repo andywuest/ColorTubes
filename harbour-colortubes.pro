@@ -9,7 +9,7 @@
 #   - icon definition filename in desktop file must be changed
 #   - translation filenames have to be changed
 
-TARGET = com.me.legoru.ColorTubes
+TARGET = harbour-colortubes
 
 CONFIG += \
     sailfishapp
@@ -50,7 +50,7 @@ DISTFILES += \
     qml/items/MessagePanel.qml \
     qml/pages/MainPage.qml \
     translations/*.ts \
-    com.me.legoru.ColorTubes.desktop
+    harbour-colortubes.desktop
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 
@@ -87,7 +87,7 @@ HEADERS += \
     src/game.h
 
 RESOURCES += \
-    com.me.legoru.ColorTubes.qrc
+    harbour-colortubes.qrc
 
 QT += \
     core \
