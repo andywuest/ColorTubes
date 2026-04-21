@@ -62,6 +62,7 @@ TRANSLATIONS += \
     translations/com.me.legoru.ColorTubes-ru.ts \
     translations/com.me.legoru.ColorTubes-de.ts \
     translations/com.me.legoru.ColorTubes-sv.ts \
+    translations/com.me.legoru.ColorTubes-it.ts \
     translations/com.me.legoru.ColorTubes-tr.ts 
 
 HEADERS += \

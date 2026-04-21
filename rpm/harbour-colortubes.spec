@@ -1,8 +1,8 @@
 Name:       harbour-colortubes
 
 Summary:    ColorTubes
-Version:    0.9
-Release:    5
+Version:    0.9.1
+Release:    1
 Group:      Qt/Qt
 License:    MIT
 URL:        https://github.com/goroleo/ColorTubes

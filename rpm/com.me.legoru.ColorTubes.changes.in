@@ -12,6 +12,10 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* xx.xx.2026 Andreas Wüst <andreas.wuest.freelancer@gmail.com> 0.9.1-1
+
+- added Italian translations (thx legacychimera247)
+
 * 09.04.2025 Andreas Wüst <andreas.wuest.freelancer@gmail.com> 0.9.0-5
 
 - Portrait/Landscape/System mode (upstream)

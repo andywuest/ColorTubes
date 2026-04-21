@@ -11,46 +11,12 @@ env:
   RELEASE: 4.2.0.21
 
 jobs:
-#  build-test:
-#    name: Build & Run tests
-#    runs-on: ubuntu-24.04
-#
-#    steps:
-#      - uses: actions/checkout@v2                                 # checkout the repo
-#
-#      - name: Install qmltestrunner                               # install required qmltestrunner packages
-#        run: |
-#          sudo apt-get update -y
-#          sudo apt-get install -y qtdeclarative5-dev-tools qml-module-qtquick-localstorage
-#          sudo apt-get install -y qml-module-qtquick-controls qml-module-qttest qt5-qmake
-#          sudo apt-get install -y libqt5test5 qtbase5-dev qtdeclarative5-dev
-#
-#      - name: Run QML / C++ Tests
-#        run: |
-#          set -x
-#          # cd test/qml
-#          # ./runTests.sh
-#          # ./fixJunit.sh
-#          # cd ..
-#          cd test/cpp
-#          # sudo timedatectl set-timezone Europe/Berlin
-#          ./runTests.sh
-#          ./fixJunit.sh
-#
-#      - name: Test Report
-#        uses: dorny/test-reporter@v1.9.1
-#        if: success() || failure()                                # run this step even if previous step failed
-#        with:
-#          name: QML/C++ Tests                                     # Name of the check run which will be created
-#          path: test/qml/*.xml,test/cpp/*.xml                     # Path to test results
-#          reporter: jest-junit                                    # Format of test results - because junit cannot be generated
-
   build:
     name: Build & Package
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
 
       - name: Prepare
         run: mkdir output
@@ -83,7 +49,7 @@ jobs:
           sudo cp -r RPMS/*.rpm /share/output"
 
       - name: Upload build result
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: output-rpms
           path: output
