@@ -58,12 +58,12 @@ CONFIG += \
     sailfishapp_i18n
 
 TRANSLATIONS += \
-    translations/com.me.legoru.ColorTubes.ts \
-    translations/com.me.legoru.ColorTubes-ru.ts \
-    translations/com.me.legoru.ColorTubes-de.ts \
-    translations/com.me.legoru.ColorTubes-sv.ts \
-    translations/com.me.legoru.ColorTubes-it.ts \
-    translations/com.me.legoru.ColorTubes-tr.ts 
+    translations/harbour-colortubes.ts \
+    translations/harbour-colortubes-de.ts \
+    translations/harbour-colortubes-it.ts \
+    translations/harbour-colortubes-ru.ts \
+    translations/harbour-colortubes-sv.ts \
+    translations/harbour-colortubes-tr.ts
 
 HEADERS += \
     core/boardmodel.h \
